@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@:Ui4.[SwR_*33uAV:|p" x="0" y="0"/><block type="device_forever" id="veOWmfW_(O%SnN*7[xHE" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="2(]%mevY0J`cl.J2`qO@"><field name="i">IconNames.Cow</field></block></statement></block></xml>
